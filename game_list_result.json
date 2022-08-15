@@ -1,0 +1,1082 @@
+[
+    {
+        "ID": 1,
+        "Игра": "The Elder Scrolls 5: Skyrim",
+        "Дата выхода:": "11 ноября 2011",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Ролевые",
+        "Издатель:": "Bethesda Softworks",
+        "Разработчик:": "Bethesda Softworks"
+    },
+    {
+        "ID": 2,
+        "Игра": "Grand Theft Auto 5",
+        "Дата выхода:": "17 сентября 2013",
+        "Платформы:": "PC/PlayStation 5/PlayStation 4/Xbox Series X/S/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "2K Games",
+        "Разработчик:": "Rockstar Games"
+    },
+    {
+        "ID": 3,
+        "Игра": "Minecraft",
+        "Дата выхода:": "18 ноября 2011",
+        "Платформы:": "PC/PlayStation 4/Nintendo Switch/Xbox One/Android/iOS/PlayStation 3/PlayStation Vita/Xbox 360",
+        "Жанры:": "Экшен/Симуляторы/Приключения/Пазлы",
+        "Издатель:": "Microsoft",
+        "Разработчик:": "4J Studios/Markus Persson/Mojang"
+    },
+    {
+        "ID": 4,
+        "Игра": "Grand Theft Auto: San Andreas",
+        "Дата выхода:": "29 октября 2004",
+        "Платформы:": "PC/Android/iOS/PlayStation 2/Xbox 360",
+        "Жанры:": "Экшен",
+        "Издатель:": "Rockstar Games",
+        "Разработчик:": "Rockstar North"
+    },
+    {
+        "ID": 5,
+        "Игра": "Grand Theft Auto 4",
+        "Дата выхода:": "29 апреля 2008",
+        "Платформы:": "PC/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен",
+        "Издатель:": "Rockstar Games",
+        "Разработчик:": "Rockstar North"
+    },
+    {
+        "ID": 6,
+        "Игра": "Assassin's Creed 2",
+        "Дата выхода:": "17 ноября 2009",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Приключения",
+        "Издатель:": "Ubisoft",
+        "Разработчик:": "Ubisoft"
+    },
+    {
+        "ID": 7,
+        "Игра": "Mass Effect 2",
+        "Дата выхода:": "29 января 2010",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Ролевые",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "BioWare"
+    },
+    {
+        "ID": 8,
+        "Игра": "Mafia 2",
+        "Дата выхода:": "27 августа 2010",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен",
+        "Издатель:": "2K Games",
+        "Разработчик:": "2K Czech"
+    },
+    {
+        "ID": 9,
+        "Игра": "Far Cry 3",
+        "Дата выхода:": "30 ноября 2012",
+        "Платформы:": "PC/PlayStation 4/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Ubisoft Entertainment",
+        "Разработчик:": "Ubisoft Entertainment"
+    },
+    {
+        "ID": 10,
+        "Игра": "Need for Speed: Most Wanted",
+        "Дата выхода:": "15 ноября 2005",
+        "Платформы:": "PC/Android/iOS/PlayStation 2/PlayStation Portable (PSP)/Xbox 360/Xbox",
+        "Жанры:": "Гонки",
+        "Издатель:": "EA Games",
+        "Разработчик:": "EA Black Box"
+    },
+    {
+        "ID": 11,
+        "Игра": "Call of Duty: Modern Warfare 2",
+        "Дата выхода:": "10 ноября 2009",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Activision",
+        "Разработчик:": "Infinity Ward"
+    },
+    {
+        "ID": 12,
+        "Игра": "Battlefield 3",
+        "Дата выхода:": "28 октября 2011",
+        "Платформы:": "PC/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "Digital Illusions Creative Entertainment"
+    },
+    {
+        "ID": 13,
+        "Игра": "Mass Effect",
+        "Дата выхода:": "20 ноября 2007",
+        "Платформы:": "PC/Xbox 360",
+        "Жанры:": "Ролевые",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "BioWare"
+    },
+    {
+        "ID": 14,
+        "Игра": "Mass Effect 3",
+        "Дата выхода:": "8 марта 2012",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры/Ролевые",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "BioWare"
+    },
+    {
+        "ID": 15,
+        "Игра": "Fallout 3",
+        "Дата выхода:": "31 октября 2008",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Ролевые",
+        "Издатель:": "Bethesda Softworks",
+        "Разработчик:": "Bethesda Softworks"
+    },
+    {
+        "ID": 16,
+        "Игра": "Assassin's Creed",
+        "Дата выхода:": "13 ноября 2007",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Приключения",
+        "Издатель:": "Ubisoft Entertainment",
+        "Разработчик:": "Ubisoft Montreal"
+    },
+    {
+        "ID": 17,
+        "Игра": "Portal 2",
+        "Дата выхода:": "21 апреля 2011",
+        "Платформы:": "PC/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Приключения/Пазлы",
+        "Издатель:": "Valve Software",
+        "Разработчик:": "Valve Software"
+    },
+    {
+        "ID": 18,
+        "Игра": "Dragon Age: Origins",
+        "Дата выхода:": "3 ноября 2009",
+        "Платформы:": "PC/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Ролевые",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "BioWare"
+    },
+    {
+        "ID": 19,
+        "Игра": "Call of Duty 4: Modern Warfare",
+        "Дата выхода:": "9 ноября 2007",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Activision",
+        "Разработчик:": "Infinity Ward"
+    },
+    {
+        "ID": 20,
+        "Игра": "Deus Ex: Human Revolution",
+        "Дата выхода:": "26 августа 2011",
+        "Платформы:": "PC/Xbox One/PlayStation 3/Xbox 360/Nintendo Wii",
+        "Жанры:": "Экшен/Ролевые",
+        "Издатель:": "Square Enix Europe",
+        "Разработчик:": "Eidos"
+    },
+    {
+        "ID": 21,
+        "Игра": "Metro 2033",
+        "Дата выхода:": "19 марта 2010",
+        "Платформы:": "PC/Nintendo Switch/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "THQ",
+        "Разработчик:": "4A Games"
+    },
+    {
+        "ID": 22,
+        "Игра": "Half-Life 2",
+        "Дата выхода:": "16 ноября 2004",
+        "Платформы:": "PC/Android/Xbox/Mac/Linux",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Vivendi Games",
+        "Разработчик:": "Valve Software"
+    },
+    {
+        "ID": 23,
+        "Игра": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+        "Дата выхода:": "20 марта 2007",
+        "Платформы:": "PC",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "THQ",
+        "Разработчик:": "GSC Game World"
+    },
+    {
+        "ID": 24,
+        "Игра": "The Witcher 2: Assassins of Kings",
+        "Дата выхода:": "17 мая 2011",
+        "Платформы:": "PC/Xbox 360",
+        "Жанры:": "Ролевые",
+        "Издатель:": "TBA",
+        "Разработчик:": "CD Projekt RED"
+    },
+    {
+        "ID": 25,
+        "Игра": "The Witcher 3: Wild Hunt",
+        "Дата выхода:": "19 мая 2015",
+        "Платформы:": "PC/PlayStation 5/PlayStation 4/Nintendo Switch/Xbox Series X/S/Xbox One",
+        "Жанры:": "Ролевые",
+        "Издатель:": "Namco Bandai Games",
+        "Разработчик:": "CD Projekt RED"
+    },
+    {
+        "ID": 26,
+        "Игра": "Dishonored",
+        "Дата выхода:": "12 октября 2012",
+        "Платформы:": "PC/PlayStation 4/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен",
+        "Издатель:": "Bethesda Softworks",
+        "Разработчик:": "Arkane Studios"
+    },
+    {
+        "ID": 27,
+        "Игра": "S.T.A.L.K.E.R. 2: Heart of Chernobyl",
+        "Дата выхода:": "8 декабря 2022",
+        "Платформы:": "PC/PlayStation 5/Xbox Series X/S",
+        "Жанры:": "Экшен/Шутеры/Приключения",
+        "Издатель:": "GSC World Publishing",
+        "Разработчик:": "GSC Game World"
+    },
+    {
+        "ID": 28,
+        "Игра": "Diablo 3",
+        "Дата выхода:": "15 мая 2012",
+        "Платформы:": "PC/PlayStation 4/Nintendo Switch/PlayStation 3/Xbox 360/Mac",
+        "Жанры:": "Ролевые",
+        "Издатель:": "Blizzard Entertainment",
+        "Разработчик:": "Blizzard Entertainment"
+    },
+    {
+        "ID": 29,
+        "Игра": "BioShock Infinite",
+        "Дата выхода:": "26 марта 2013",
+        "Платформы:": "PC/Nintendo Switch/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "2K Games",
+        "Разработчик:": "Irrational Games"
+    },
+    {
+        "ID": 30,
+        "Игра": "Warcraft 3: The Frozen Throne",
+        "Дата выхода:": "22 июня 2003",
+        "Платформы:": "PC",
+        "Жанры:": "Ролевые/Стратегии",
+        "Издатель:": "Blizzard Entertainment",
+        "Разработчик:": "Blizzard Entertainment"
+    },
+    {
+        "ID": 31,
+        "Игра": "Fahrenheit",
+        "Дата выхода:": "20 сентября 2005",
+        "Платформы:": "PC/PlayStation 4/Android/iOS/Mac",
+        "Жанры:": "Приключения",
+        "Издатель:": "Atari",
+        "Разработчик:": "Quantic Dream"
+    },
+    {
+        "ID": 32,
+        "Игра": "Grand Theft Auto: Vice City",
+        "Дата выхода:": "8 ноября 2002",
+        "Платформы:": "PC/PlayStation 4/Android/iOS/PlayStation 3/PlayStation 2/Xbox/Mac",
+        "Жанры:": "Экшен",
+        "Издатель:": "Rockstar Games",
+        "Разработчик:": "Rockstar North"
+    },
+    {
+        "ID": 33,
+        "Игра": "Batman: Arkham City",
+        "Дата выхода:": "21 октября 2011",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен",
+        "Издатель:": "Warner Bros. Interactive Entertainment",
+        "Разработчик:": "Rocksteady Studios"
+    },
+    {
+        "ID": 34,
+        "Игра": "Fallout: New Vegas",
+        "Дата выхода:": "22 октября 2010",
+        "Платформы:": "PC/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Ролевые/Стратегии",
+        "Издатель:": "Bethesda Softworks",
+        "Разработчик:": "Obsidian Entertainment"
+    },
+    {
+        "ID": 35,
+        "Игра": "BioShock",
+        "Дата выхода:": "21 августа 2007",
+        "Платформы:": "PC/Nintendo Switch/iOS/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Take-Two",
+        "Разработчик:": "2K Boston"
+    },
+    {
+        "ID": 36,
+        "Игра": "Assassin's Creed: Brotherhood",
+        "Дата выхода:": "19 ноября 2010",
+        "Платформы:": "PC/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Приключения",
+        "Издатель:": "Ubisoft",
+        "Разработчик:": "Ubisoft"
+    },
+    {
+        "ID": 37,
+        "Игра": "Cyberpunk 2077",
+        "Дата выхода:": "10 декабря 2020",
+        "Платформы:": "PC/PlayStation 5/PlayStation 4/Xbox Series X/S/Xbox One/Google Stadia",
+        "Жанры:": "Экшен/Ролевые",
+        "Издатель:": "CD Projekt RED/Bandai Namco Entertainment /WB Games",
+        "Разработчик:": "CD Projekt RED/Crunching Koalas/QLOC/Testronic"
+    },
+    {
+        "ID": 38,
+        "Игра": "The Witcher",
+        "Дата выхода:": "30 октября 2007",
+        "Платформы:": "PC",
+        "Жанры:": "Ролевые",
+        "Издатель:": "Atari",
+        "Разработчик:": "CD Projekt RED"
+    },
+    {
+        "ID": 39,
+        "Игра": "Tomb Raider (2013)",
+        "Дата выхода:": "5 марта 2013",
+        "Платформы:": "PC/PlayStation 3/Xbox 360/Mac/Google Stadia",
+        "Жанры:": "Экшен/Шутеры/Ролевые",
+        "Издатель:": "Square Enix",
+        "Разработчик:": "Crystal Dynamics"
+    },
+    {
+        "ID": 40,
+        "Игра": "StarCraft 2: Wings of Liberty",
+        "Дата выхода:": "31 июля 2010",
+        "Платформы:": "PC",
+        "Жанры:": "Стратегии/MMO",
+        "Издатель:": "Blizzard Entertainment",
+        "Разработчик:": "Blizzard Entertainment"
+    },
+    {
+        "ID": 41,
+        "Игра": "Mirror's Edge",
+        "Дата выхода:": "14 ноября 2008",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "EA DICE"
+    },
+    {
+        "ID": 42,
+        "Игра": "The Elder Scrolls IV: Oblivion",
+        "Дата выхода:": "20 марта 2006",
+        "Платформы:": "PC/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Ролевые",
+        "Издатель:": "2K Games",
+        "Разработчик:": "Bethesda Softworks"
+    },
+    {
+        "ID": 43,
+        "Игра": "Crysis 2",
+        "Дата выхода:": "25 марта 2011",
+        "Платформы:": "PC/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "Crytek"
+    },
+    {
+        "ID": 44,
+        "Игра": "Batman: Arkham Asylum",
+        "Дата выхода:": "25 августа 2009",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен",
+        "Издатель:": "Eidos Interactive",
+        "Разработчик:": "Rocksteady Studios"
+    },
+    {
+        "ID": 45,
+        "Игра": "Dead Space",
+        "Дата выхода:": "24 октября 2008",
+        "Платформы:": "PC/Android/PlayStation 3/Xbox 360",
+        "Жанры:": "Хоррор/Экшен",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "EA Games"
+    },
+    {
+        "ID": 46,
+        "Игра": "Battlefield: Bad Company 2",
+        "Дата выхода:": "5 марта 2010",
+        "Платформы:": "PC/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "Digital Illusions"
+    },
+    {
+        "ID": 47,
+        "Игра": "S.T.A.L.K.E.R.: Call of Pripyat",
+        "Дата выхода:": "3 октября 2009",
+        "Платформы:": "PC",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Deep Silver",
+        "Разработчик:": "GSC Game World"
+    },
+    {
+        "ID": 48,
+        "Игра": "L.A. Noire",
+        "Дата выхода:": "17 мая 2011",
+        "Платформы:": "PC/PlayStation 4/Nintendo Switch/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Симуляторы/Приключения",
+        "Издатель:": "Rockstar Games",
+        "Разработчик:": "Team Bondi"
+    },
+    {
+        "ID": 49,
+        "Игра": "Portal",
+        "Дата выхода:": "10 октября 2007",
+        "Платформы:": "PC/Android/PlayStation 3/Xbox 360",
+        "Жанры:": "Приключения/Пазлы",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "Valve Corporation"
+    },
+    {
+        "ID": 50,
+        "Игра": "Left 4 Dead 2",
+        "Дата выхода:": "17 ноября 2009",
+        "Платформы:": "PC/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Valve Software",
+        "Разработчик:": "Valve Software"
+    },
+    {
+        "ID": 51,
+        "Игра": "Max Payne 3",
+        "Дата выхода:": "1 июня 2012",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен",
+        "Издатель:": "Rockstar Vancouver",
+        "Разработчик:": "Rockstar Vancouver"
+    },
+    {
+        "ID": 52,
+        "Игра": "Warcraft III: Reign of Chaos",
+        "Дата выхода:": "14 июня 2002",
+        "Платформы:": "PC",
+        "Жанры:": "Ролевые/Стратегии",
+        "Издатель:": "Blizzard Entertainment",
+        "Разработчик:": "Blizzard Entertainment"
+    },
+    {
+        "ID": 53,
+        "Игра": "Dead Space 2",
+        "Дата выхода:": "25 января 2011",
+        "Платформы:": "PC/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Хоррор/Экшен",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "Visceral Games"
+    },
+    {
+        "ID": 54,
+        "Игра": "Assassin's Creed: Revelations",
+        "Дата выхода:": "29 ноября 2011",
+        "Платформы:": "PC/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен",
+        "Издатель:": "Ubisoft",
+        "Разработчик:": "Ubisoft Montreal"
+    },
+    {
+        "ID": 55,
+        "Игра": "Call of Duty: Modern Warfare 3",
+        "Дата выхода:": "8 ноября 2011",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Activision",
+        "Разработчик:": "Infinity Ward"
+    },
+    {
+        "ID": 56,
+        "Игра": "Metro: Last Light",
+        "Дата выхода:": "17 мая 2013",
+        "Платформы:": "PC/Nintendo Switch/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Deep Silver",
+        "Разработчик:": "4A Games"
+    },
+    {
+        "ID": 57,
+        "Игра": "Fable: The Lost Chapters",
+        "Дата выхода:": "8 октября 2004",
+        "Платформы:": "PC/Xbox 360",
+        "Жанры:": "Экшен/Ролевые",
+        "Издатель:": "Microsoft",
+        "Разработчик:": "Lionhead Studios"
+    },
+    {
+        "ID": 58,
+        "Игра": "Half-Life 2: Episode Two",
+        "Дата выхода:": "10 октября 2007",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Valve Software",
+        "Разработчик:": "Valve Software"
+    },
+    {
+        "ID": 59,
+        "Игра": "Prototype",
+        "Дата выхода:": "5 июня 2009",
+        "Платформы:": "PC/PlayStation 4/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен",
+        "Издатель:": "Activision",
+        "Разработчик:": "Radical Entertainment"
+    },
+    {
+        "ID": 60,
+        "Игра": "Dota 2",
+        "Дата выхода:": "9 июля 2013",
+        "Платформы:": "PC/Mac",
+        "Жанры:": "MOBA",
+        "Издатель:": "Valve Software",
+        "Разработчик:": "Valve Software"
+    },
+    {
+        "ID": 61,
+        "Игра": "Need for Speed: Underground 2",
+        "Дата выхода:": "13 ноября 2004",
+        "Платформы:": "PC/PlayStation 2/Xbox",
+        "Жанры:": "Гонки",
+        "Издатель:": "EA Games",
+        "Разработчик:": "EA Black Box"
+    },
+    {
+        "ID": 62,
+        "Игра": "Crysis",
+        "Дата выхода:": "13 ноября 2007",
+        "Платформы:": "PC/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "Crytek"
+    },
+    {
+        "ID": 63,
+        "Игра": "Half-Life",
+        "Дата выхода:": "19 ноября 1998",
+        "Платформы:": "PC",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Sierra Entertainment",
+        "Разработчик:": "Valve Software"
+    },
+    {
+        "ID": 64,
+        "Игра": "Call of Duty 2",
+        "Дата выхода:": "2 декабря 2005",
+        "Платформы:": "PC/Xbox One/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Activision",
+        "Разработчик:": "Infinity Ward"
+    },
+    {
+        "ID": 65,
+        "Игра": "Max Payne 2: The Fall of Max Payne",
+        "Дата выхода:": "16 октября 2003",
+        "Платформы:": "PC/PlayStation 2/Xbox",
+        "Жанры:": "Экшен",
+        "Издатель:": "Rockstar Games",
+        "Разработчик:": "Remedy Entertainment"
+    },
+    {
+        "ID": 66,
+        "Игра": "Alan Wake",
+        "Дата выхода:": "14 мая 2010",
+        "Платформы:": "PC/Xbox 360",
+        "Жанры:": "Экшен",
+        "Издатель:": "Microsoft",
+        "Разработчик:": "Remedy Entertainment"
+    },
+    {
+        "ID": 67,
+        "Игра": "Watch Dogs",
+        "Дата выхода:": "27 мая 2014",
+        "Платформы:": "PC/PlayStation 5/PlayStation 4/Xbox Series X/S/Xbox One/PlayStation 3/Xbox 360/Nintendo Wii U",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Ubisoft Entertainment",
+        "Разработчик:": "Ubisoft Montreal/Ubisoft Romania/Ubisoft Reflections"
+    },
+    {
+        "ID": 68,
+        "Игра": "The Elder Scrolls 3: Morrowind",
+        "Дата выхода:": "4 октября 2002",
+        "Платформы:": "PC",
+        "Жанры:": "Ролевые",
+        "Издатель:": "Ubisoft",
+        "Разработчик:": "Bethesda Softworks"
+    },
+    {
+        "ID": 69,
+        "Игра": "S.T.A.L.K.E.R.: Clear Sky",
+        "Дата выхода:": "29 августа 2008",
+        "Платформы:": "PC",
+        "Жанры:": "Шутеры",
+        "Издатель:": "Deep Silver",
+        "Разработчик:": "GSC Game World"
+    },
+    {
+        "ID": 70,
+        "Игра": "World of Tanks",
+        "Дата выхода:": "12 августа 2010",
+        "Платформы:": "PC/PlayStation 4/Xbox 360",
+        "Жанры:": "Экшен/MMO",
+        "Издатель:": "Wargaming.net",
+        "Разработчик:": "Wargaming.net"
+    },
+    {
+        "ID": 71,
+        "Игра": "Need for Speed: Underground",
+        "Дата выхода:": "17 ноября 2003",
+        "Платформы:": "PC/PlayStation 2/Xbox",
+        "Жанры:": "Симуляторы/Гонки",
+        "Издатель:": "EA Games",
+        "Разработчик:": "EA Black Box"
+    },
+    {
+        "ID": 72,
+        "Игра": "Bulletstorm",
+        "Дата выхода:": "22 февраля 2011",
+        "Платформы:": "PC/Nintendo Switch/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "People Can Fly"
+    },
+    {
+        "ID": 73,
+        "Игра": "Assassin's Creed 3",
+        "Дата выхода:": "30 октября 2012",
+        "Платформы:": "PC/Nintendo Switch/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен",
+        "Издатель:": "Ubisoft Entertainment",
+        "Разработчик:": "Ubisoft Entertainment"
+    },
+    {
+        "ID": 74,
+        "Игра": "Spore",
+        "Дата выхода:": "7 сентября 2008",
+        "Платформы:": "PC/Mac",
+        "Жанры:": "Стратегии/Симуляторы",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "Electronic Arts"
+    },
+    {
+        "ID": 75,
+        "Игра": "XCOM: Enemy Unknown",
+        "Дата выхода:": "9 октября 2012",
+        "Платформы:": "PC/Android/iOS/PlayStation 3/Xbox 360",
+        "Жанры:": "Стратегии",
+        "Издатель:": "2K Games",
+        "Разработчик:": "Firaxis Games"
+    },
+    {
+        "ID": 76,
+        "Игра": "Call of Duty",
+        "Дата выхода:": "29 октября 2003",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Activision",
+        "Разработчик:": "Infinity Ward"
+    },
+    {
+        "ID": 77,
+        "Игра": "Diablo 2",
+        "Дата выхода:": "29 июня 2000",
+        "Платформы:": "PC",
+        "Жанры:": "Экшен/Ролевые",
+        "Издатель:": "Blizzard Entertainment",
+        "Разработчик:": "Blizzard Entertainment"
+    },
+    {
+        "ID": 78,
+        "Игра": "Limbo",
+        "Дата выхода:": "31 декабря 2010",
+        "Платформы:": "PC/PlayStation 4/Xbox One/Android/iOS/PlayStation 3/PlayStation Vita/Xbox 360/Mac/Nintendo Wii U",
+        "Жанры:": "Приключения/Аркады/Пазлы",
+        "Издатель:": "Playdead",
+        "Разработчик:": "Playdead"
+    },
+    {
+        "ID": 79,
+        "Игра": "Need for Speed Carbon",
+        "Дата выхода:": "2 ноября 2006",
+        "Платформы:": "PC/PlayStation 3/PlayStation 2/PlayStation Portable (PSP)/Nintendo Wii",
+        "Жанры:": "Симуляторы/Гонки",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "EA Black Box"
+    },
+    {
+        "ID": 80,
+        "Игра": "Call of Duty: Black Ops",
+        "Дата выхода:": "9 ноября 2010",
+        "Платформы:": "PC/PlayStation 3/Xbox 360/Nintendo Wii",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Activision",
+        "Разработчик:": "Treyarch"
+    },
+    {
+        "ID": 81,
+        "Игра": "Mafia: The City of Lost Heaven",
+        "Дата выхода:": "27 августа 2002",
+        "Платформы:": "PC",
+        "Жанры:": "Экшен",
+        "Издатель:": "Take-Two Interactive",
+        "Разработчик:": "Illusion Softworks"
+    },
+    {
+        "ID": 82,
+        "Игра": "Left 4 Dead",
+        "Дата выхода:": "17 ноября 2008",
+        "Платформы:": "PC/Xbox One/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "Valve Corporation"
+    },
+    {
+        "ID": 83,
+        "Игра": "Devil May Cry 4",
+        "Дата выхода:": "31 января 2008",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен",
+        "Издатель:": "Capcom",
+        "Разработчик:": "Capcom"
+    },
+    {
+        "ID": 84,
+        "Игра": "Team Fortress 2",
+        "Дата выхода:": "11 октября 2007",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Valve Software",
+        "Разработчик:": "Valve Software"
+    },
+    {
+        "ID": 85,
+        "Игра": "Borderlands",
+        "Дата выхода:": "23 октября 2009",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры/Ролевые",
+        "Издатель:": "2K Games",
+        "Разработчик:": "Gearbox Software"
+    },
+    {
+        "ID": 86,
+        "Игра": "Mount & Blade 2: Bannerlord",
+        "Дата выхода:": "31 марта 2020",
+        "Платформы:": "PC/PlayStation 5/PlayStation 4/Nintendo Switch/Xbox Series X/S/Xbox One",
+        "Жанры:": "Экшен/Ролевые/Стратегии/Симуляторы",
+        "Издатель:": "TaleWorlds",
+        "Разработчик:": "TaleWorlds"
+    },
+    {
+        "ID": 87,
+        "Игра": "Gothic",
+        "Дата выхода:": "23 ноября 2001",
+        "Платформы:": "PC",
+        "Жанры:": "Экшен/Ролевые",
+        "Издатель:": "Xicat Interactive",
+        "Разработчик:": "Pirahna Bytes"
+    },
+    {
+        "ID": 88,
+        "Игра": "Hitman: Absolution",
+        "Дата выхода:": "20 ноября 2012",
+        "Платформы:": "PC/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Square Enix",
+        "Разработчик:": "Io Interactive"
+    },
+    {
+        "ID": 89,
+        "Игра": "Mortal Kombat (2011)",
+        "Дата выхода:": "19 апреля 2011",
+        "Платформы:": "PC/PlayStation 3/PlayStation Vita/Xbox 360",
+        "Жанры:": "Аркады/Файтинги",
+        "Издатель:": "Warner Bros. Interactive Entertainment",
+        "Разработчик:": "NetherRealm Studios"
+    },
+    {
+        "ID": 90,
+        "Игра": "BioShock 2",
+        "Дата выхода:": "9 февраля 2010",
+        "Платформы:": "PC/Nintendo Switch/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "2K Games",
+        "Разработчик:": "2K Marin"
+    },
+    {
+        "ID": 91,
+        "Игра": "Metro: Exodus",
+        "Дата выхода:": "15 февраля 2019",
+        "Платформы:": "PC/PlayStation 4/Xbox One/Google Stadia",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Deep Silver",
+        "Разработчик:": "4A Games"
+    },
+    {
+        "ID": 92,
+        "Игра": "Sid Meier's Civilization V",
+        "Дата выхода:": "24 сентября 2010",
+        "Платформы:": "PC/Mac",
+        "Жанры:": "Стратегии",
+        "Издатель:": "2K Games",
+        "Разработчик:": "Firaxis Games"
+    },
+    {
+        "ID": 93,
+        "Игра": "World of Warcraft",
+        "Дата выхода:": "23 ноября 2004",
+        "Платформы:": "PC",
+        "Жанры:": "Ролевые/MMO",
+        "Издатель:": "Blizzard Entertainment",
+        "Разработчик:": "Blizzard Entertainment"
+    },
+    {
+        "ID": 94,
+        "Игра": "Resident Evil 5",
+        "Дата выхода:": "13 марта 2009",
+        "Платформы:": "PC/PlayStation 4/Nintendo Switch/Xbox One/Android/PlayStation 3/Xbox 360",
+        "Жанры:": "Хоррор/Экшен/Шутеры",
+        "Издатель:": "Capcom",
+        "Разработчик:": "Capcom"
+    },
+    {
+        "ID": 95,
+        "Игра": "Far Cry",
+        "Дата выхода:": "23 марта 2004",
+        "Платформы:": "PC",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Ubisoft Entertainment",
+        "Разработчик:": "Crytek"
+    },
+    {
+        "ID": 96,
+        "Игра": "Fallout 2",
+        "Дата выхода:": "29 октября 1998",
+        "Платформы:": "PC",
+        "Жанры:": "Ролевые",
+        "Издатель:": "Interplay Productions",
+        "Разработчик:": "Interplay Productions"
+    },
+    {
+        "ID": 97,
+        "Игра": "Dragon Age 2",
+        "Дата выхода:": "11 марта 2011",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Ролевые",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "BioWare"
+    },
+    {
+        "ID": 98,
+        "Игра": "Saints Row: The Third",
+        "Дата выхода:": "18 ноября 2011",
+        "Платформы:": "PC/PlayStation 5/Nintendo Switch/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "THQ",
+        "Разработчик:": "Volition"
+    },
+    {
+        "ID": 99,
+        "Игра": "Assassin's Creed 4: Black Flag",
+        "Дата выхода:": "31 октября 2013",
+        "Платформы:": "PC/PlayStation 4/Nintendo Switch/Xbox One/PlayStation 3/Xbox 360/Nintendo Wii U",
+        "Жанры:": "Экшен/Приключения",
+        "Издатель:": "Ubisoft Entertainment",
+        "Разработчик:": "Ubisoft Entertainment"
+    },
+    {
+        "ID": 100,
+        "Игра": "FlatOut 2",
+        "Дата выхода:": "30 июня 2006",
+        "Платформы:": "PC/PlayStation 2/PlayStation Portable (PSP)/Xbox 360",
+        "Жанры:": "Аркады/Гонки",
+        "Издатель:": "Vivendi Games",
+        "Разработчик:": "Bugbear Entertainment"
+    },
+    {
+        "ID": 101,
+        "Игра": "Burnout Paradise",
+        "Дата выхода:": "22 января 2008",
+        "Платформы:": "PC/PlayStation 4/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Гонки",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "Criterion Games"
+    },
+    {
+        "ID": 102,
+        "Игра": "Dragon Age: Origins - Awakening",
+        "Дата выхода:": "16 марта 2010",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Ролевые",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "BioWare"
+    },
+    {
+        "ID": 103,
+        "Игра": "Tom Clancy's Splinter Cell: Conviction",
+        "Дата выхода:": "16 апреля 2010",
+        "Платформы:": "PC/Android/iOS/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Ubisoft Entertainment",
+        "Разработчик:": "Ubisoft Montreal"
+    },
+    {
+        "ID": 104,
+        "Игра": "Hitman: Blood Money",
+        "Дата выхода:": "19 мая 2006",
+        "Платформы:": "PC",
+        "Жанры:": "Экшен",
+        "Издатель:": "Eidos Interactive",
+        "Разработчик:": "Io Interactive"
+    },
+    {
+        "ID": 105,
+        "Игра": "Dark Messiah of Might & Magic",
+        "Дата выхода:": "24 октября 2006",
+        "Платформы:": "PC",
+        "Жанры:": "Экшен/Ролевые",
+        "Издатель:": "Ubisoft Entertainment",
+        "Разработчик:": "Arkane Studios"
+    },
+    {
+        "ID": 106,
+        "Игра": "Heroes of Might and Magic III: The Restoration of Erathia",
+        "Дата выхода:": "31 марта 1999",
+        "Платформы:": "PC",
+        "Жанры:": "Стратегии",
+        "Издатель:": "3DO",
+        "Разработчик:": "New World Computing"
+    },
+    {
+        "ID": 107,
+        "Игра": "DmC: Devil May Cry",
+        "Дата выхода:": "15 января 2013",
+        "Платформы:": "PC/PlayStation 4/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен",
+        "Издатель:": "Capcom",
+        "Разработчик:": "Ninja Theory/QLOC"
+    },
+    {
+        "ID": 108,
+        "Игра": "Gothic 2",
+        "Дата выхода:": "28 октября 2003",
+        "Платформы:": "PC",
+        "Жанры:": "Экшен/Ролевые",
+        "Издатель:": "JoWooD Productions",
+        "Разработчик:": "Pirahna Bytes"
+    },
+    {
+        "ID": 109,
+        "Игра": "Titan Quest",
+        "Дата выхода:": "26 июня 2006",
+        "Платформы:": "PC/PlayStation 4/Nintendo Switch/Xbox One/Android/iOS/Mac",
+        "Жанры:": "Экшен/Ролевые",
+        "Издатель:": "THQ",
+        "Разработчик:": "Iron Lore Studios"
+    },
+    {
+        "ID": 110,
+        "Игра": "Max Payne",
+        "Дата выхода:": "23 июля 2001",
+        "Платформы:": "Android/iOS/PlayStation 2/Xbox 360/Xbox/Mac",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Rockstar Games",
+        "Разработчик:": "3D Realms Entertainment"
+    },
+    {
+        "ID": 111,
+        "Игра": "Borderlands 2",
+        "Дата выхода:": "18 сентября 2012",
+        "Платформы:": "PC/PlayStation 4/Nintendo Switch/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры/Ролевые",
+        "Издатель:": "2K Games",
+        "Разработчик:": "Gearbox Software"
+    },
+    {
+        "ID": 112,
+        "Игра": "Star Wars: Knights of the Old Republic",
+        "Дата выхода:": "19 ноября 2003",
+        "Платформы:": "PC/Nintendo Switch/Xbox One/Android/iOS/Xbox",
+        "Жанры:": "Экшен/Ролевые",
+        "Издатель:": "LucasArts Entertainment",
+        "Разработчик:": "BioWare"
+    },
+    {
+        "ID": 113,
+        "Игра": "Need For Speed ProStreet",
+        "Дата выхода:": "14 ноября 2007",
+        "Платформы:": "PC/PlayStation 3/PlayStation 2/PlayStation Portable (PSP)/Xbox 360/Nintendo Wii/Nintendo DS",
+        "Жанры:": "Симуляторы/Гонки",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "EA Black Box"
+    },
+    {
+        "ID": 114,
+        "Игра": "Heavy Rain",
+        "Дата выхода:": "26 февраля 2010",
+        "Платформы:": "PC/PlayStation 4/PlayStation 3",
+        "Жанры:": "Приключения",
+        "Издатель:": "TBA",
+        "Разработчик:": "Quantic Dream"
+    },
+    {
+        "ID": 115,
+        "Игра": "Half-Life 2: Episode One",
+        "Дата выхода:": "1 июня 2006",
+        "Платформы:": "PC/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "Valve Software"
+    },
+    {
+        "ID": 116,
+        "Игра": "Grand Theft Auto 3",
+        "Дата выхода:": "26 октября 2001",
+        "Платформы:": "PC/PlayStation 4/Android/iOS/PlayStation 3/PlayStation 2/Mac",
+        "Жанры:": "Экшен",
+        "Издатель:": "Rockstar Games",
+        "Разработчик:": "Rockstar North"
+    },
+    {
+        "ID": 117,
+        "Игра": "Plants vs. Zombies",
+        "Дата выхода:": "23 июня 2011",
+        "Платформы:": "PC/Android/iOS/Xbox 360",
+        "Жанры:": "Стратегии",
+        "Издатель:": "PopCap Games",
+        "Разработчик:": "PopCap Games"
+    },
+    {
+        "ID": 118,
+        "Игра": "Red Dead Redemption",
+        "Дата выхода:": "18 мая 2010",
+        "Платформы:": "PlayStation 4/Xbox One/PlayStation 3/Xbox 360",
+        "Жанры:": "Экшен/Шутеры",
+        "Издатель:": "Rockstar Games",
+        "Разработчик:": "Rockstar Games"
+    },
+    {
+        "ID": 119,
+        "Игра": "Need for Speed: Most Wanted (2012)",
+        "Дата выхода:": "30 октября 2012",
+        "Платформы:": "PC/Android/iOS/PlayStation 3/PlayStation Vita/Xbox 360/Nintendo Wii U",
+        "Жанры:": "Гонки",
+        "Издатель:": "Electronic Arts",
+        "Разработчик:": "Criterion Games/Firemonkeys"
+    },
+    {
+        "ID": 120,
+        "Игра": "Resident Evil 4",
+        "Дата выхода:": "22 февраля 2007",
+        "Платформы:": "PC/PlayStation 4/Nintendo Switch/Xbox One/Android/iOS/PlayStation 3/PlayStation 2/Xbox 360/Nintendo Wii",
+        "Жанры:": "Хоррор/Экшен",
+        "Издатель:": "Ubisoft Entertainment",
+        "Разработчик:": "Capcom"
+    }
+]

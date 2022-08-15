@@ -42,9 +42,11 @@ def main():
 
     with open('game_list_result.json', 'a', encoding='utf-8') as file:
         json.dump(result_list, file, indent=4, ensure_ascii=False)
-    print(f"""\nМы всё спарсили!
+    print(f"""
+\nМы всё спарсили!
 Всего игр: {games}.
-Все данные записаны в файл 'game_list_result.json'.""")
+Все данные записаны в файл 'game_list_result.json'.
+""")
 
 
 if __name__ == '__main__':
